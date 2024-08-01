@@ -13,7 +13,7 @@ const Home = () => {
       Hello Developer!
 
       <div>
-        <Link to="login">로그인</Link>
+        <Link to="login">Login</Link>
       </div>
     </Container>
   );
